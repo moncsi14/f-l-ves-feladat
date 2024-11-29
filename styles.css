@@ -60,16 +60,16 @@ nav a {
   position: absolute;
   margin-left: 50px;
   background-color: #ffffff;
+  font-family: Bowlby ONE;
 }
 
 .title-div .title {
   color: #ffffff;
   background-color: #fa5f06;
   border-radius: 25px;
-  padding: 10px 20px 10px;
+  padding: 10px 20px 3px;
   display: inline-block;
   margin-top: -100px;
-  font-family: Bowlby ONE;
 }
 
 .best-sellers {
